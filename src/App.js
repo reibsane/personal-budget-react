@@ -13,6 +13,7 @@ import HomePage from './HomePage/HomePage';
 import Footer from './Footer/Footer';
 import LoginPage from './LoginPage/LoginPage';
 import AboutPage from './AboutPage/AboutPage';
+import Chart from './Chart/Chart'
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
         </Switch>
       </div>
       <HomePage/>
+      <Chart/>
       <Footer/>
     </Router>
   );

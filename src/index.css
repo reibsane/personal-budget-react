@@ -466,3 +466,10 @@ main article {
       margin: 10px;
   }
 }
+
+.chrt {
+  margin: 0 auto;
+  display: inline-block;
+  width: 340px;
+  height: 340px;
+}
