@@ -20,7 +20,7 @@ const data = {
 
 function Chart() {
     return (
-        <div>
+        <div className='center'>
             <div class='chrt'>
             <h1>Chart</h1>
     <Pie data={data} />
