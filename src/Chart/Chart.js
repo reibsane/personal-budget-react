@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Pie } from "react-chartjs-2";
-import Hero from '../Hero/Hero';
+import axios from 'axios';
 
 const data = {
     title: {
