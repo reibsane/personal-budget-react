@@ -20,10 +20,9 @@ const data = {
 
 function Chart() {
     return (
-        <div class='Hero'>
-             <h1>Chart</h1>
+        <div>
             <div class='chrt'>
-       
+            <h1>Chart</h1>
     <Pie data={data} />
   </div></div>
     );

@@ -467,9 +467,14 @@ main article {
   }
 }
 
-.chrt {
-  margin: 0 auto;
+div.chrt {
   display: inline-block;
-  width: 340px;
-  height: 340px;
+  width: 500px;
+  height: 500px;
+  padding: 25px;
+}
+
+div.chrt h1 {
+  text-align: center;
+  font-size: 4.2em;
 }
